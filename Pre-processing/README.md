@@ -5,5 +5,5 @@ We started with resume dataset:
   - `preprocessed_dataset`<br>
 
 We then moved on to transcripts generated from CMI lecture videos:
-  - 'transcripts'
+  - `transcripts`
   - `QnA` -> containing all the queries and ground truths
